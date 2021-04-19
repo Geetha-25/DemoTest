@@ -5,6 +5,7 @@ public class GitCheck {
 		// TODO Auto-generated method stub
 		
 		System.out.println("First Code");
+		System.out.println("Second Code");
 
 	}
 
