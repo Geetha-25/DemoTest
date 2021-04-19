@@ -6,6 +6,7 @@ public class GitCheck {
 		
 		System.out.println("First Code");
 		System.out.println("Second Code");
+		System.out.println("Third Code");
 
 	}
 
